@@ -1,6 +1,7 @@
 # curso-MACHINE-LEARNING
 
 **M5-01-PYTHON NOTEBOOK:**
+
 --- Básico
 - Variables y tipos
 - Listas
@@ -22,11 +23,13 @@
 
 
 **M5-02-CONDICIONALES:**
+
 - Operadores de comparación
 - ¿Qué es cierto?
 - Ejercicios (Ejercicio 1, Ejercicio 2, Ejercicio 3)
 
 **M5-03-BUCLES:** 
+
 --- Repetir con while
 - Bucle Infinito
 - Continuar un bucle
